@@ -1,0 +1,49 @@
+html {
+
+}
+body {
+  background-color: white;
+
+}
+#calc {
+  /*background-color: #61B34F;*/
+  height: 530px;
+  width: 430px;
+}
+.main{
+  display: flex;
+}
+#result {
+  border: 0.5px white solid;
+  height: 95px;
+  width: 294px;
+  background-color: #61B34F;
+  /*margin: 0px 0px 4px;*/
+  margin: 0px 0px -5px 2px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-size: 35px;
+}
+
+.kutir , .shufer, #clear, #equal{
+  height: 100px;
+  width: 100px;
+  color: white;
+  font-size: 35px;
+  /*border-color: white 05px solid;*/
+  background-color: #61B34F;
+  border: 0.1px solid white;
+  border-color: white;
+  margin: 0px -4px -4px -2px;
+  padding: 0px;
+
+}
+
+/*#clear {
+  height: 100px;
+  width: 100px;
+}
+.shufer {
+}*/
